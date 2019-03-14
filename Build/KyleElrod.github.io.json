@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Terrain",
+"dataUrl": "KyleElrod.github.io.data.unityweb",
+"asmCodeUrl": "KyleElrod.github.io.asm.code.unityweb",
+"asmMemoryUrl": "KyleElrod.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "KyleElrod.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
